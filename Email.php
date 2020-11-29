@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 final class Email
 {
-    private $email;
+    private $email ;
 
     private function __construct(string $email)
     {
